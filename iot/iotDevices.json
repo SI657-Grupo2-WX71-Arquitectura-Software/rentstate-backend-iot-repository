@@ -1,0 +1,14 @@
+[
+  {
+    "name": "RentSecurity System V 1.0",
+    "description": "Un sistema de seguridad robusto y completo para proteger tu propiedad",
+    "deviceTypeId": 1,
+    "image": "/device_types/1.png"
+  },
+  {
+    "name": "RentSecurity System V 2.0",
+    "description": "Un sistema de seguridad robusto y completo para proteger tu propiedad, ahora con la posibilidad de rocear gas pimienta",
+    "deviceTypeId": 2,
+    "image": "/device_types/1.png"
+  }
+]

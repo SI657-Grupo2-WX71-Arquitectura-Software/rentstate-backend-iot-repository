@@ -1,0 +1,120 @@
+{
+  "1": {
+    "deviceId": 1,
+    "password": "string",
+    "userId": "4",
+    "enabled": true,
+    "deactivationKey": "1234",
+    "ticksWithoutMessages": 5170,
+    "hasSentNotification": true,
+    "deviceTypeId": 1,
+    "propertyId": 7,
+    "messages": [
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT. Marque el botón de reinicio para restablecer la conexión.",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      },
+      {
+        "severity": 3,
+        "message": "Se ha perdido comunicación con el dispositivo IoT",
+        "timestamp": 1729513510095
+      }
+    ],
+    "iotDeviceData": {
+      "name": "RentSecurity System V 1.0",
+      "description": "Un sistema de seguridad robusto y completo para proteger tu propiedad",
+      "deviceTypeId": 1,
+      "image": "/device_types/1.png"
+    }
+  },
+  "2": {
+    "deviceId": 2,
+    "password": "string",
+    "userId": 0,
+    "propertyId": 0,
+    "enabled": false,
+    "deactivationKey": "1234",
+    "messages": [],
+    "ticksWithoutMessages": 0,
+    "hasSentNotification": false,
+    "deviceTypeId": 1,
+    "iotDeviceData": {
+      "name": "RentSecurity System V 1.0",
+      "description": "Un sistema de seguridad robusto y completo para proteger tu propiedad",
+      "deviceTypeId": 1,
+      "image": "/device_types/1.png"
+    }
+  },
+  "3": {
+    "deviceId": 3,
+    "password": "string",
+    "userId": "4",
+    "propertyId": 8,
+    "enabled": false,
+    "deactivationKey": "1234",
+    "messages": [],
+    "ticksWithoutMessages": 0,
+    "hasSentNotification": false,
+    "deviceTypeId": 1,
+    "iotDeviceData": {
+      "name": "RentSecurity System V 1.0",
+      "description": "Un sistema de seguridad robusto y completo para proteger tu propiedad",
+      "deviceTypeId": 1,
+      "image": "/device_types/1.png"
+    }
+  },
+  "4": {
+    "deviceId": 4,
+    "password": "string",
+    "userId": 0,
+    "propertyId": 0,
+    "enabled": false,
+    "deactivationKey": "1234",
+    "messages": [],
+    "ticksWithoutMessages": 0,
+    "hasSentNotification": false,
+    "deviceTypeId": 1,
+    "iotDeviceData": {
+      "name": "RentSecurity System V 1.0",
+      "description": "Un sistema de seguridad robusto y completo para proteger tu propiedad",
+      "deviceTypeId": 1,
+      "image": "/device_types/1.png"
+    }
+  }
+}
